@@ -1,0 +1,10 @@
+selenium
+webdriver_manager
+python-dotenv 
+pydub
+tenacity
+openai==0.28.0
+pandas
+jinja2
+lxml
+Pillow
